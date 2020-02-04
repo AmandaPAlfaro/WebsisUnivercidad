@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\Websis\Websis\Websis\bin\Debug\Websis.exe.config
+C:\Users\Administrator\Desktop\Websis\Websis\Websis\bin\Debug\Websis.exe
+C:\Users\Administrator\Desktop\Websis\Websis\Websis\bin\Debug\Websis.pdb
+C:\Users\Administrator\Desktop\Websis\Websis\Websis\obj\Debug\Websis.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Websis\Websis\Websis\obj\Debug\Websis.exe
+C:\Users\Administrator\Desktop\Websis\Websis\Websis\obj\Debug\Websis.pdb
